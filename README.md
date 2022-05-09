@@ -1,1 +1,1 @@
-https://lukmanov87.github.io/virtual-keyboard/index.html
+https://Lukmanov87.github.io/Virtual-keyboard/
